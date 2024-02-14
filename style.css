@@ -1,0 +1,90 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #ffcccc; /* Light pink background */
+    color: #ff0000; /* Red text */
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.title {
+    color: #ff0066; /* Dark pink title */
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.heart-image {
+    width: 100px;
+    margin: 20px auto;
+}
+
+.reasons {
+    margin-bottom: 30px;
+}
+
+.reasons h2 {
+    color: #ff0066; /* Dark pink heading */
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.reasons ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.reasons li {
+    color: #ff0000; /* Red text */
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.poem {
+    margin-bottom: 30px;
+}
+
+.poem h2 {
+    color: #ff0066; /* Dark pink heading */
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.poem p {
+    color: #ff0000; /* Red text */
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.images img {
+    width: 30%;
+    border-radius: 10px;
+}
+
+.footer {
+    color: #ff0066; /* Dark pink text */
+    font-size: 1.1em;
+    margin-top: 20px;
+}
+
+.signature {
+    font-weight: bold;
+}
+
+.sender {
+    font-style: italic;
+}
+
+.fun-font {
+    font-family: 'Indie Flower', cursive; /* Fun font */
+}
+/*Thanks GPT*/
